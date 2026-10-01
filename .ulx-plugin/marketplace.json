@@ -1,0 +1,14 @@
+{
+  "name": "ulab24",
+  "description": "ulab24's internal skills. Reachable only inside the ulab24 VPN.",
+  "owner": {
+    "name": "ulab24",
+    "url": "https://github.com/ulab24"
+  },
+  "metadata": {
+    "description": "Skills and plugins for ulx and other agent harnesses",
+    "version": "0.1.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": []
+}
